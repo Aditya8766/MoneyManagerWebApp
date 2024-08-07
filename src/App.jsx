@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello Aditya</h1>
+      <h1>Hello This is Aditya</h1>
       <h3>Welcome back in Money Manager</h3>
       <Cards balance={balance} income={totalIncome} expenses={totalExpenses} />
       <AddTransaction addTransaction={addTransaction} />
